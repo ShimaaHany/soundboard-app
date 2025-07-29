@@ -1,11 +1,11 @@
 // Initialize audio objects for each sound
 const sounds = {
-    clapping: new Audio('sounds/clapping.wav'),
-    boo: new Audio('sounds/boo.wav'),
-    violin: new Audio('sounds/violin.wav'),
-    drums: new Audio('sounds/drums.wav'),
-    laughing: new Audio('sounds/laughing.wav'),
-    scream: new Audio('sounds/scream.wav')
+    clapping: new Audio('clapping.wav'),
+    boo: new Audio('boo.wav'),
+    violin: new Audio('violin.wav'),
+    drums: new Audio('drums.wav'),
+    laughing: new Audio('laughing.wav'),
+    scream: new Audio('scream.wav')
 };
 
 // Preload all sounds
